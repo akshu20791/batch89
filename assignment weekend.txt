@@ -1,0 +1,23 @@
+Assignment 1
+
+1) Check git videos on vimeo 
+
+https://vimeo.com/user144653859
+
+2) check jenkins video on vimeo
+
+https://vimeo.com/697836338
+
+3) Check linux video  (if you have not checked it yet)
+
+https://vimeo.com/700202539
+
+4) Create a AWS account  (you will need debit/credit card details but we will do all free labs only)
+
+https://aws.amazon.com/
+
+5) create a ec2 machine (first 2-3 minutes of the video) 
+
+https://www.youtube.com/watch?v=z0u_KtR-66Q&t=3s
+
+
